@@ -1,0 +1,174 @@
+header {
+display: flex;
+justify-content: space-between;
+background-color: black;
+color: white;height: 85px;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+button{
+    width: 192px;
+    height: 82px;
+    background-color:rgb(255, 166, 0);
+}
+
+.a{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+
+
+.man div{
+    width: 235px;
+    height: 73px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+body{
+    background-color: black;
+}
+
+
+.man{
+display: flex;
+height: 300px;
+align-items: end;
+justify-content: center;
+gap: 60px;
+
+}
+.car{
+    background-color: yellow;
+    font-size: 40px;
+}
+
+.text{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+}
+
+.q{
+    width: 966px;
+    height: 202px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+    color: white;
+    font-size: 65px;
+   opacity: 0.5;
+   border-radius: 20px;
+}
+
+
+main{
+    background-image: url(./image\ 5\ \(2\).png);
+}
+
+
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+}
+
+nav{
+    display: flex;
+    gap: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
